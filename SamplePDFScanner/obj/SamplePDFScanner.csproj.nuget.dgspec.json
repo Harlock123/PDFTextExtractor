@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lwatson/RiderProjects/SamplePDFScanner/SamplePDFScanner/SamplePDFScanner.csproj": {}
+    "/Users/lwatson/RiderProjects/PDFTextExtractor/SamplePDFScanner/SamplePDFScanner.csproj": {}
   },
   "projects": {
-    "/Users/lwatson/RiderProjects/SamplePDFScanner/SamplePDFScanner/SamplePDFScanner.csproj": {
+    "/Users/lwatson/RiderProjects/PDFTextExtractor/SamplePDFScanner/SamplePDFScanner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lwatson/RiderProjects/SamplePDFScanner/SamplePDFScanner/SamplePDFScanner.csproj",
+        "projectUniqueName": "/Users/lwatson/RiderProjects/PDFTextExtractor/SamplePDFScanner/SamplePDFScanner.csproj",
         "projectName": "SamplePDFScanner",
-        "projectPath": "/Users/lwatson/RiderProjects/SamplePDFScanner/SamplePDFScanner/SamplePDFScanner.csproj",
+        "projectPath": "/Users/lwatson/RiderProjects/PDFTextExtractor/SamplePDFScanner/SamplePDFScanner.csproj",
         "packagesPath": "/Users/lwatson/.nuget/packages/",
-        "outputPath": "/Users/lwatson/RiderProjects/SamplePDFScanner/SamplePDFScanner/obj/",
+        "outputPath": "/Users/lwatson/RiderProjects/PDFTextExtractor/SamplePDFScanner/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/lwatson/.nuget/NuGet/NuGet.Config"
