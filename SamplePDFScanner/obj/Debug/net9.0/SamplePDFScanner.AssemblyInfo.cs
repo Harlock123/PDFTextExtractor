@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SamplePDFScanner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8588a18f31fe414f675aabf89d5d4311edf55687")]
 [assembly: System.Reflection.AssemblyProductAttribute("SamplePDFScanner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SamplePDFScanner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
